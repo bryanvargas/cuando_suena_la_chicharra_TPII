@@ -8,7 +8,7 @@ import javax.swing.UIManager;
 public class App {
 	public static void main(String[] args) {
 		try {
-			//Se agrego Look and Feel
+			//Se agrego Look and Feel	
 			System.out.println();
 			JFrame.setDefaultLookAndFeelDecorated(true);
 			JDialog.setDefaultLookAndFeelDecorated(true);
